@@ -1,0 +1,23 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "Mock server for todo list api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DennisSweeris/JSON-Server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DennisSweeris/JSON-Server/issues"
+  },
+  "homepage": "https://github.com/DennisSweeris/JSON-Server#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
